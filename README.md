@@ -1,0 +1,2 @@
+# Optimizing natural light in property based on Augmented Reality (Project Contribution)
+ Innovative IT undergraduate at Rajarata University of Sri Lanka with a strong passion for computer vision, machine learning, and augmented reality. Contributed to research on optimizing natural light in properties using AR by developing an customized object detection model with YOLOv5 in Google Colab to identify surrounding objects.(Technologies used : C#,python,YOLO)
